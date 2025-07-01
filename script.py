@@ -4,3 +4,6 @@ print("Je continue")
 print("Hello world")
 print("This is me")
 print("Fun for everyone. Corrected")
+print("Hello world")
+print("Come and see")
+
